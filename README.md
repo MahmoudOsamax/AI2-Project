@@ -19,6 +19,12 @@ This project predicts the compressive strength of concrete based on its componen
 - **`model.pkl`**  
   Serialized (saved) machine learning model, ready for deployment and use in the API
 
+  - **`Concrete Compressive Strength.pptx`**  
+  A PowerPoint presentation summarizing the project
+
+- **`Ai project proposal.pdf`**  
+  A document outlining the project proposal
+
 - **`requirements.txt`**  
   File containing the list of Python dependencies needed to run the project
 
