@@ -10,7 +10,7 @@ This project predicts the compressive strength of concrete based on its componen
   Jupyter Notebook used for training and evaluating the machine learning model. It includes the data preprocessing, model training, and performance evaluation
 
 - **`Concrete Compressive Strength.csv`**  
-  Dataset containing information about the components of concrete and their corresponding compressive strength values.  
+  Dataset containing information about the components of concrete and their corresponding compressive strength values
   **Dataset link:** [Concrete Compressive Strength Dataset](https://www.kaggle.com/datasets/niteshyadav3103/concrete-compressive-strength)
 
 - **`app.py`**  
